@@ -3,11 +3,11 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
-    <string name="q_activity">Piwo to nie alkohol?</string>
-    <string name="q_version">2?</string>
-    <string name="q_listener">3?</string>
-    <string name="q_resources">4?</string>
-    <string name="q_find_resources">5?</string>
+    <string name="q_activity">bezwodny kwas octowy w temperaturze poniżej 16°C nazywamy kwasem lodowatym?</string>
+    <string name="q_version">2faraon nosił trzy korony, które symbolizowały jego zwierzchnictwo nad Górnym, Środkowym i Dolnym Egiptem?</string>
+    <string name="q_listener">mity greckie tłumaczą następstwo pór roku za pomocą mitu o Tezeuszu i Ariadnie?</string>
+    <string name="q_resources">do stopienia ciała stałego niezbędna jest energia cieplna?</string>
+    <string name="q_find_resources">błony płodowe wykształcają się między palcami płodu i wchłaniane są około 6 miesiąca ciąży?</string>
     <string name="correct_answer">Poprawna odpowiedź</string>
     <string name="incorrect_answer">Niepoprawna odpowiedź</string>
 </resources>
