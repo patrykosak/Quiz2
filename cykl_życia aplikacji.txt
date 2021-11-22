@@ -1,0 +1,50 @@
+Uruchomienie aplikacji
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Obrócenie ekranu
+
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po obróceniu ekranu dochodzi do całkowitego usunięcia aktywności a następnie do ponownego uruchomienia aktywności co powoduje reset pytań
+
+Naciśnięcie guziku cofnij
+
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+
+Powrót do aplikacji
+
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Wciśnięcie przycisku Home
+
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+
+Powrót z menu ostatnio używanych aplikacji
+
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po dodaniu zapisywania stanu
+Obrócenie ekranu
+
+D/MainActivity: Wywołana została metoda cyklu życia: onPause
+D/MainActivity: Wywołana została metoda cyklu życia: onStop
+D/MainActivity: Wywołana została metoda: onSaveInstanceState
+D/MainActivity: Wywołana została metoda cyklu życia: onDestroy
+D/MainActivity: Wywołana została metoda cyklu życia: onCreate
+D/MainActivity: Wywołana została metoda cyklu życia: onStart
+D/MainActivity: Wywołana została metoda cyklu życia: onResume
+
+Po stworzeniu PromptActivity pojawił się w AndroidManifest.xml nowy wpis dotyczący tej aktywności
